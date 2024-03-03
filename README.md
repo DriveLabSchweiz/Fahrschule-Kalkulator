@@ -1,1 +1,1 @@
-Falls du den Kalkulator auf deiner Wordpress Seite einrichten willst, gehe am besten zum Theme File Editor und füge das PHP Skript zu functions.php hinzu. Vergiss nicht eine Datei in deinem js Ordner zu erstellen mit dem Namen: fahrschulkalkulator.js
+Falls du den Kalkulator auf deiner Wordpress Seite einrichten willst, gehe am besten zum Theme File Editor und füge das PHP Skript zu functions.php deines Child-Theme hinzu. Vergiss nicht eine Datei in deinem js Ordner zu erstellen mit dem Namen: fahrschulkalkulator.js
